@@ -37,7 +37,7 @@ def solve_part_2(data)
 end
 
 ## Answer Part 1: 2742123
-puts solve_part_1("data.txt")
+puts "Part 1: #{solve_part_1("data.txt")}"
 
 ## Answer Part 2: 21328497
-puts solve_part_2("data.txt")
+puts "Part 2: #{solve_part_2("data.txt")}"
